@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: rest-locust
+Version: 0.0.1
+Summary: Rest Locust for load testing the rest end points using locustio
+Home-page: https://github.com/parthakonda/rest_locust
+Author: Partha Saradhi Konda
+Author-email: parthasaradhi1992@gmail.com
+License: UNKNOWN
+Description: # rest_locust
+        Extended locust for quickly writing loadtests for locust
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
