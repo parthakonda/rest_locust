@@ -20,7 +20,7 @@ setuptools.setup(
     ],
     install_requires=[
         "locustio==0.9.0",
-        "Jinja2==2.10",
+        "Jinja2==2.11.3",
         "coverage==4.5.1"
     ],
 )
